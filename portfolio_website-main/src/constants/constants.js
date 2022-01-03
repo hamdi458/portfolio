@@ -9,6 +9,15 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'crypto platform',
+    description: "in-depth data about all cryptocurrencies, crypto markets, exchanges and cryptocurrencies news Using React, Redux to fetch data from rapid api and create User iterfaces using Ant_Design and create charts using chart.js",
+      image: '/images/3.png',
+      tags: ['React', 'RapidApi'],
+    source: 'https://cryptoplatform-by-hamdi.netlify.app',
+    visit: 'https://github.com/hamdi458/Crypto_React_App',
+    id: 2,
+  },
+  {
     title: 'E-Commerce',
     description:"Using React, commerve.js a e-commerce application - from start to finish. The App is called E-commerce and it is a simple e-commerce app that allows customers to to buy anything including payment using stripe",
     image: '/images/2.png',
@@ -17,15 +26,7 @@ export const projects = [
     visit: 'https://e-commerce-react-hamdi.netlify.app',
     id: 1,
   },
-  {
-    title: 'crypto platform',
-    description: "in-depth data about all cryptocurrencies, crypto markets, exchanges and cryptocurrencies news Using React, Redux to fetch data from rapid api and create User iterfaces using #Ant_Design and create charts using #chart.js",
-      image: '/images/3.png',
-      tags: ['React', 'RapidApi'],
-    source: 'https://cryptoplatform-by-hamdi.netlify.app',
-    visit: 'https://github.com/hamdi458/Crypto_React_App',
-    id: 2,
-  },
+
   {
     title: 'Unichat',
     description: "Full Realtime Chat Application using reactjs, node express chat messaging platform Stream using their apis",

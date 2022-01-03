@@ -33,7 +33,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Node Express <br />
-            c#,&nbsp; .Net Mvc5,&nbsp; .net core <br />
+            c#,&nbsp; .Net Mvc5,&nbsp;.net core <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
